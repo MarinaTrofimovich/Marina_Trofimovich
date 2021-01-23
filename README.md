@@ -16,6 +16,9 @@ The project solved the problem of predicting the churn of bank customers. Using 
 
 ***Packages:*** pandas, numpy, matplotlib, seaborn, plotly, sklearn 
 
+![](/images/1.png)
+![](/images/2.png)
+
 
 # [Project 2. Sentiment analysis for the customer's task](https://github.com/MarinaTrofimovich/sentiment_analysis_yandex)
 
