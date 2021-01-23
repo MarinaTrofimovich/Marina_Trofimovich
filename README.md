@@ -1,6 +1,13 @@
 # [Project 1. Bank customer churn prediction](https://github.com/MarinaTrofimovich/Projects)
 
-The project solved the problem of predicting the churn of bank customers. Using churned customers as a means of understanding why customers are leaving, we analyzed how and when churn occurs in a customer's life cycle with the bank and predicted the customer's churn. In the future the bank can use that information to put into place preemptive measures.
+The project solved the problem of predicting the churn of bank customers. Using churned customers as a means of understanding why customers are leaving, I analyzed how and when churn occurs in a customer's life cycle with the bank and predicted the customer's churn. In the future the bank can use that information to put into place preemptive measures.
+
+## Tools
+
+***Python version:*** 3.8.3.
+
+***Packages:*** pandas, numpy, matplotlib, seaborn, plotly, sklearn 
+
 
 # [Project 2. Sentiment analysis for the customer's task](https://github.com/MarinaTrofimovich/sentiment_analysis_yandex)
 
