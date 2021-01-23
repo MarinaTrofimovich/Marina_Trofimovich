@@ -1,5 +1,7 @@
 # [Project 1. Bank customer churn prediction](https://github.com/MarinaTrofimovich/Projects)
 
+[Interactive version](https://marinatrofimovich.github.io/)
+
 The project solved the problem of predicting the churn of bank customers. Using churned customers as a means of understanding why customers are leaving, I analyzed how and when churn occurs in a customer's life cycle with the bank and predicted the customer's churn. In the future the bank can use that information to put into place preemptive measures.
 
 ## Tools
