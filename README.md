@@ -43,6 +43,6 @@ The project solved the problem of predicting the churn of bank customers. Using 
 
 ## Flask API screenschots
 
-<img align="center" width="250" src="images/Screenshot1.png" />
-<img align="center" width="250" src="images/Screenshot2.png" />
+<img align="center" src="images/Screenshot1.png" />
+<img align="center" src="images/Screenshot2.png" />
 
