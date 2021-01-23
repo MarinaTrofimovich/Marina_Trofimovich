@@ -29,5 +29,5 @@ The project solved the problem of predicting the churn of bank customers. Using 
 
 ## Flask API screenschots
 
-![](src="/images/Screenshot1.png")
+![](/images/Screenshot1.png")
 ![](/images/Screenshot2.png")
