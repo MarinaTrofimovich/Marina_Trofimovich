@@ -29,6 +29,6 @@ The project solved the problem of predicting the churn of bank customers. Using 
 
 ## Flask API screenschots
 
-![](https://github.com/MarinaTrofimovich/sentiment_analysis_yandex/blob/main/images/Screenshot1.png)
-![](https://github.com/MarinaTrofimovich/sentiment_analysis_yandex/blob/main/images/Screenshot2.png)
+![](/images/Screenshot1.png)
+![](/images/Screenshot2.png)
 
