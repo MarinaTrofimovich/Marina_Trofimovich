@@ -16,9 +16,9 @@ The project solved the problem of predicting the churn of bank customers. Using 
 
 ***Packages:*** pandas, numpy, matplotlib, seaborn, plotly, sklearn 
 
-<table><tr>
-<td> <img align="center" width="600" height="300" src="images/1.png" /> </td>
-<td> <img align="center" width="600" height="300" src="images/2.png" /> </td>
+<table width="100%"><tr>
+<td> <img align="center" src="images/1.png" /> </td>
+<td> <img align="center" src="images/2.png" /> </td>
 </tr></table>
 
 # [Project 2. Sentiment analysis for the customer's task](https://github.com/MarinaTrofimovich/sentiment_analysis_yandex)
@@ -45,7 +45,7 @@ The project solved the problem of predicting the churn of bank customers. Using 
 
 ## Flask API screenschots
 
-<table><tr>
-<td> <img align="center" width="600" height="300" src="images/Screenshot1.png" /> </td>
-<td> <img align="center" width="600" height="300" src="images/Screenshot2.png" /> </td>
+<table width="100%"><tr>
+<td> <img align="center" src="images/Screenshot1.png" /> </td>
+<td> <img align="center" src="images/Screenshot2.png" /> </td>
 </tr></table>
