@@ -10,7 +10,7 @@ The project solved the problem of predicting the churn of bank customers. Using 
 
 - Built a prediction model which can classify if a customer is going to leave or not (trained Logistic Regression, k-nearesr neighbors, SVC, Random Forest and optimized them using GridSearchCV).
 
-- Chose the best model in accordance with business goals.
+- Analyzed the metrics and chose the best model in accordance with business goals.
 
 ## Tools
 
