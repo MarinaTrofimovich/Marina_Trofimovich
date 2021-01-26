@@ -4,11 +4,11 @@ The project solved the problem of predicting the churn of bank customers. Using 
 
 ## Overview
 
-- Identified and visualized which factors contribute to the customer churn (using pandas, numpy, matplotlib, seaborn, plotly).
+- Identified and visualized what factors contribute to the customer churn (using pandas, numpy, matplotlib, seaborn, plotly).
 
 - Prepared the data for the prediction model (features selection, removing outliers, encoding categorical variables, splitting into train and test parts with shuffling to balance the data, scaling).
 
-- Built a prediction model which can classify if a customer is going to leave or not (trained Logistic Regression, k-nearesr neighbors, SVC, Random Forest and optimized them using GridSearchCV).
+- Developed a prediction model which can classify if the customer is going to leave or not (trained Logistic Regression, k-nearesr neighbors, SVC, Random Forest and optimized them using GridSearchCV).
 
 - Analyzed the metrics and chose the best model in accordance with business goals.
 
