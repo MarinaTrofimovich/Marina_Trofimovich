@@ -29,9 +29,9 @@ The project solved the problem of predicting the churn of bank customers. Using 
 
 - Scraped over 23000 reviews on smartphones from the Yandex market using Python and Selenium.
 
-- Performed data cleaning and data selection to find the best way of labeling the data (final number of reviews 6500+).
+- Performed data cleaning and data selection to finding the best way of labeling the data (final number of reviews 6500+).
 
-- Optimized a pepiline "CountVectorizer(), TfidfTransformer(), LinearSVC()" using RandomizedSearchCV to reach the best model.
+- Optimized a pepiline "CountVectorizer(), TfidfTransformer(), LinearSVC()" using RandomizedSearchCV to reach the most accurate model.
 
 - Built a client facing API using Flask.
 
