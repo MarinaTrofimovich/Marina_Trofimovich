@@ -21,7 +21,7 @@ The project solved the problem of predicting the churn of bank customers. Using 
 <img align="center" src="images/1.png" />
 <img align="center" src="images/2.png" />
 
-# [Project 2. Sentiment analysis for the customer's task](https://github.com/MarinaTrofimovich/sentiment_analysis_yandex)
+# [Project 2. Sentiment analysis reviews for the customer's task](https://github.com/MarinaTrofimovich/sentiment_analysis_yandex)
 
 ## Overview
 
