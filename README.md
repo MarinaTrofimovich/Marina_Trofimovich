@@ -25,7 +25,7 @@ The project solved the problem of predicting the churn of bank customers. Using 
 
 ## Overview
 
-- Created a tool that predict the sentiment of smartphone's review.
+- Produced a tool for predicting the sentiment of smartphone reviews.
 
 - Scraped over 23000 reviews on smartphones from the Yandex market using Python and Selenium.
 
