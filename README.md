@@ -33,9 +33,9 @@ The project solved the problem of predicting the churn of bank customers. Using 
 
 - Optimized a pepiline "CountVectorizer(), TfidfTransformer(), LinearSVC()" using RandomizedSearchCV to reach the most accurate model.
 
-- Built a client facing API using Flask.
+- Developed a client facing API using Flask.
 
-- The accuracy on customer's data is 95.5%.
+- The accuracy on customer's data is about 95.5%.
 
 ## Tools
 
